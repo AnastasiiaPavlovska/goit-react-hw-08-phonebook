@@ -26,7 +26,6 @@ const ContactListItem = ({ contact }) => {
     </li>)
 
 }
-
 export default ContactListItem
 
 ContactListItem.propTypes = {
